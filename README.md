@@ -1,0 +1,1 @@
+Atividade da aula 01 da Cubos Academy que imprime "Hello, world!"
